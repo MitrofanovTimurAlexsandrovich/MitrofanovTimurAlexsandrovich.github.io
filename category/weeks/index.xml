@@ -5,12 +5,50 @@
     <link>http://localhost:1313/category/weeks/</link>
       <atom:link href="http://localhost:1313/category/weeks/index.xml" rel="self" type="application/rss+xml" />
     <description>Weeks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Weeks</title>
       <link>http://localhost:1313/category/weeks/</link>
     </image>
+    
+    <item>
+      <title>Пост по неделе с 22 по 28 апреля</title>
+      <link>http://localhost:1313/post/summary3/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary3/</guid>
+      <description>&lt;h2 id=&#34;третий-пост&#34;&gt;Третий пост&lt;/h2&gt;
+&lt;p&gt;Данный пост является примером(демо) в котором я демострирую что разобрался как рабоотать с постами&lt;/p&gt;
+&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Недля проашлп стандарто. Никаких отклонений от нормальности зафиксировано не было.&lt;/p&gt;
+&lt;h2 id=&#34;пример-нкмерации&#34;&gt;Пример нкмерации&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;первый пункт&lt;/li&gt;
+&lt;li&gt;второй пункт&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе с 1 по 7 Апреля</title>
+      <link>http://localhost:1313/post/summary2/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;первый-пост&#34;&gt;Первый пост&lt;/h2&gt;
+&lt;p&gt;Данный пост является примером в котором я демострирую что разобрался как рабоотать с постами 2.0&lt;/p&gt;
+&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Недля прошла стандарто. Никаких отклонений от нормальности зафиксировано не было.&lt;/p&gt;
+&lt;h2 id=&#34;пример-нумерации&#34;&gt;Пример нумерации&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;На той неделе была контра по мат. анализу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;на этой неделе была контрольная по дискретной математике.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по неделе с 11 по 17 марта</title>
@@ -26,9 +64,7 @@
 &lt;li&gt;первый пункт&lt;/li&gt;
 &lt;li&gt;второй пункт&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+</description>
     </item>
     
   </channel>
